@@ -23,3 +23,5 @@ Giám sát máy tính trong mạng Lan
 	+ Xây dựng Client vẫn thực hiện chương trình trong khi chờ kết nối tới Server
 	+ Mở rộng cơ sở dữ liệu thiết bị
   +Kết nối Client Server linh hoạt hơn
+email: wirkhalifa1998@gmail.com
+au: wirkh
